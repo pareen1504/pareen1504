@@ -19,6 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pareen-doshi-34067975/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pareen-doshi-34067975/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/pareend?igshid=mmizywvlndq5yg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/pareend?igshid=mmizywvlndq5yg==" height="30" width="40" /></a>
+<a href="https://github.com/pareen1504" target="blank"><img align="center" src="https://github.com/pareen1504/pareen1504/assets/13451186/86e7e041-1be3-4696-9a61-bc00d4ef09f4" alt="https://github.com/pareen1504" height="48" width="48" /></a>
+<a href="https://www.linkedin.com/in/pareen-doshi-34067975/" target="blank"><img align="center" src="https://github.com/pareen1504/pareen1504/assets/13451186/9f98ce93-ff9f-45a3-8430-24d8090a72cc" alt="https://www.linkedin.com/in/pareen-doshi-34067975/" height="48" width="48" /></a>
+<a href="https://instagram.com/pareend?igshid=mmizywvlndq5yg==" target="blank"><img align="center" src="https://github.com/pareen1504/pareen1504/assets/13451186/0c57e9fe-00b4-4428-8bb6-37ae0016ad6a" alt="https://instagram.com/pareend?igshid=mmizywvlndq5yg==" height="48" width="48" /></a>
 </p>
