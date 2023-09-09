@@ -4,7 +4,6 @@
 
 - 🧑‍💻 I am using <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="12" />**Kotlin as primary language**
 - 🌱 I’m currently learning **KMM**
-- 🤝 I’m looking for help with **my job hunt**
 - 📫 How to reach me **You see the links at the bottom..yes right there!!**
 - :nerd_face: **Always `learn new things`**
 
